@@ -14,8 +14,8 @@ local.output=/home/anupam/Downloads/out
 # AWS EMR Execution
 aws.emr.release=emr-5.3.0
 aws.region=us-east-2
-aws.bucket.name=asapremr
-aws.subnet.id=subnet-2530226f
+aws.bucket.name=#your bucketname
+aws.subnet.id=#your subnet id
 aws.input=input
 aws.output=output
 aws.model=model
